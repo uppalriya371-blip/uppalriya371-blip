@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Full+Stack+Developer;AI+Enthusiast;Open+to+Collaborate)](https://git.io/typing-svg)
 <!--
 **uppalriya371-blip/uppalriya371-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
