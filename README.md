@@ -77,10 +77,6 @@ class Riya:
 
 <div align="center">
 
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riya25bce10323-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E040FB&icon_color=E040FB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riya25bce10323-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E040FB)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=riya25bce10323-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=E040FB&fire=E040FB&currStreakLabel=E040FB)
 
 </div>
@@ -109,7 +105,7 @@ class Riya:
 
 </div>
 
-> **Setup:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this!
+
 
 ---
 
