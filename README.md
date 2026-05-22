@@ -77,7 +77,7 @@ class Riya:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=riya25bce10323-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=E040FB&fire=E040FB&currStreakLabel=E040FB)
+![GitHub Streak](https://streak-stats.demolab.com?user=uppalriya371-blip&theme=tokyonight&hide_border=true&background=0D1117&ring=E040FB&fire=E040FB&currStreakLabel=E040FB)
 
 </div>
 
