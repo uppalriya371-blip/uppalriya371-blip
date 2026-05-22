@@ -105,7 +105,7 @@ class Riya:
 
 <div align="center">
 
-![Snake animation](https://github.com/riya25bce10323-ctrl/riya25bce10323-ctrl/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/uppalriya371-blip/uppalriya371-blip/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
