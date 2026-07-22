@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E040FB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Riya+Uppal+%F0%9F%91%8B;Computer+Vision+%26+AI+Enthusiast+%F0%9F%A4%96;GSSoC+Open+Source+Contributor+%F0%9F%8C%9F;Drone+Software+Developer+%F0%9F%9A%81;B.Tech+CSE+%40+VIT+Bhopal+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=riya25bce10323-ctrl&label=Profile+views&color=E040FB&style=flat" alt="Profile Views" />
